@@ -1,4 +1,4 @@
-# Pearl
+# Pearl Rutgers Hackathon(2019)
 
 Pearl is a Student made web application that allows users to buy and sell products with people around them.
 Utilizing MongoDB, express, and  socket.io this application allows users in real time to buy and sell products!
